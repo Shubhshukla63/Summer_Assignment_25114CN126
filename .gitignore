@@ -1,0 +1,14 @@
+# Compiled files
+*.exe
+*.o
+*.out
+
+# VS code
+.vs code/
+*.code-workspace
+
+# Windows Shortcuts
+*.lnk
+
+# Temporary files
+*.tmp
